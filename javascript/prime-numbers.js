@@ -7,5 +7,5 @@ primeNumberCheck = (num) => {
 console.log(primeNumberCheck(0)) //false
 console.log(primeNumberCheck(1)) //false
 console.log(primeNumberCheck(2)) //true
-console.log(primeNumberCheck(825)) //true
-console.log(primeNumberCheck(827)) //false
+console.log(primeNumberCheck(825)) //false
+console.log(primeNumberCheck(827)) //true
